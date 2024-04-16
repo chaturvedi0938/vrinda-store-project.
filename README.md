@@ -9,6 +9,8 @@ Objective of this project:-
                3. Data analysis
                4.Problem solving
                5. Microsoft excel pivot table and pivot chart for data visualization.
+
+               
 Insights find:-
               1.Highest sales in march 
               2.Women sales is highest
